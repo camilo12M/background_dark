@@ -90,7 +90,7 @@ class SearchScreen extends StatelessWidget {
             'Buscar',
             style: TextStyle(
               color: Colors.white,
-              fontSize: 24,
+              fontSize: 26,
             ),
           ),
           SizedBox(height: 20), // Espacio entre el título y el cuadro de texto
